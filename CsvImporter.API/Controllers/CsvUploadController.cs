@@ -68,7 +68,7 @@ namespace CsvImporter.API.Controllers
             return Ok($"Record with ID {id} deleted.");
         }
         
-        [HttpDelete("clear")]
+        [HttpDelete("clear-all")]
         public IActionResult ClearAllRecords()
         {
             var allRecords = _context.CsvRecords.ToList();

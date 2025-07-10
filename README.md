@@ -1,12 +1,39 @@
-# CSV-Importer
-A simple web application for updating, parsing, and managing CSV data. Build with C#/.NET backend and a straighforward frontend, this tool demonstrates basic ETL (Extract, Transform, Load) concepts with a user-friendsly interface for data import and editing.
-Features:
-  Upload CSV files and parse data into a database
-  View and edit imported data in a tabular format
-  Basic validation and error handling during import
-  Simple UI for ease fo use and quick data management.
-Tech Stack:
-  Backend: C# .NET Core Web API
-  Frontend: React
-  Database: SQLite / SQL Server Express
-  Tools: EFCore
+# CSV Importer
+
+A simple full-stack application that allows users to upload a CSV file, preview the contents in a table, and delete individual or all records. Built with React (Vite) frontend and ASP.NET Core 9 Web API backend using SQLite.
+
+---
+
+## 🚀 Features
+
+- Upload CSV files via drag-and-drop or file selector
+- Automatically parses and displays records
+- Delete individual records or clear all
+- Toast notifications for user actions
+- Responsive UI with loading indicators
+- Built with:
+  - Frontend: React + TypeScript + Bootstrap
+  - Backend: .NET 9 Web API + CsvHelper
+  - Database: SQLite + Entity Framework Core
+
+
+## 🔧 Setup Instructions
+Backend: 
+cd CsvImporter.API
+dotnet restore
+dotnet ef database update
+dotnet run
+Backend runs on: https://localhost:5001
+
+Frontend:
+cd ../CsvImporter.UI
+npm install
+npm run dev
+Frontend runs on: http://localhost:5173
+
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/csv-importer.git
+cd csv-importer

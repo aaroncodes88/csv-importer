@@ -11,10 +11,20 @@ type CsvRecord = {
 export default function CsvTable() {
     const [records, setRecords] = useState<CsvRecord[]>([]);
 
+    const [loading, setLoading] = useState(false);
+
     const fetchData = async () => {
-        const res = await getRecords();
-        setRecords(res.data);
+        setLoading(true);
+        try {
+            const res = await getRecords();
+            setRecords(res.data);
+        } catch (err) {
+            console.error('Fetch failed:', err);
+        } finally {
+            setLoading(false);
+        }
     };
+
 
     const handleDelete = async (id: number) => {
         await deleteRecord(id);
@@ -31,13 +41,14 @@ export default function CsvTable() {
         fetchData();
     }, []);
 
+
     return (
         <>
             <button className="btn btn-danger mb-3" onClick={handleClearAllRecords}>
                 Clear All
             </button>
 
-            <table className="table table-bordered">
+            <table className="table table-bordered table-striped table-hover">
                 <thead className="table-light">
                     <tr>
                         <th>Name</th>
@@ -51,8 +62,8 @@ export default function CsvTable() {
                         <tr key={r.id}>
                             <td>{r.name}</td>
                             <td>{r.age}</td>
-                            <td>{r.email}</td>
-                            <td>
+                            <td className="text-truncate" style={{ maxWidth: '200px' }}>{r.email}</td>
+                            <td className="text-center">
                                 <button
                                     className="btn btn-sm btn-outline-danger"
                                     onClick={() => handleDelete(r.id)}
@@ -71,6 +82,11 @@ export default function CsvTable() {
                     )}
                 </tbody>
             </table>
+            {records.length > 0 && (
+                <div className="text-muted small mt-2">
+                    Showing {records.length} record{records.length !== 1 ? 's' : ''}
+                </div>
+            )}
         </>
     );
 }

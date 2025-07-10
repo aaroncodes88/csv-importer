@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\src\\components\\csvtable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|solutionrelative:csv-importer-ui\\src\\components\\csvtable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\src\\components\\fileupload.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|solutionrelative:csv-importer-ui\\src\\components\\fileupload.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|solutionrelative:csv-importer-ui\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|solutionrelative:csv-importer-ui\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\src\\components\\csvtable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|solutionrelative:csv-importer-ui\\src\\components\\csvtable.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\src\\components\\fileupload.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|solutionrelative:csv-importer-ui\\src\\components\\fileupload.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70A44B93-3962-D8B7-AD1D-4B8366609CC9}|CsvImporter.API.csproj|c:\\users\\aaron\\desktop\\projects\\csv-importer\\csvimporter.api\\csv-importer-ui\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\.gitignore",
               "RelativeDocumentMoniker": "csv-importer-ui\\.gitignore",
               "ToolTip": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\.gitignore",
               "RelativeToolTip": "csv-importer-ui\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-09T16:29:29.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\index.css",
               "RelativeDocumentMoniker": "csv-importer-ui\\src\\index.css",
@@ -103,12 +103,11 @@
               "RelativeToolTip": "csv-importer-ui\\src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-09T16:18:03.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T16:18:03.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\App.css",
               "RelativeDocumentMoniker": "csv-importer-ui\\src\\App.css",
@@ -116,31 +115,30 @@
               "RelativeToolTip": "csv-importer-ui\\src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-09T16:17:55.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T16:17:55.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FileUpload.tsx",
               "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\components\\FileUpload.tsx",
               "RelativeDocumentMoniker": "csv-importer-ui\\src\\components\\FileUpload.tsx",
-              "ToolTip": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\components\\FileUpload.tsx",
-              "RelativeToolTip": "csv-importer-ui\\src\\components\\FileUpload.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\components\\FileUpload.tsx*",
+              "RelativeToolTip": "csv-importer-ui\\src\\components\\FileUpload.tsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-07-09T15:24:17.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CsvTable.tsx",
               "DocumentMoniker": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\components\\CsvTable.tsx",
               "RelativeDocumentMoniker": "csv-importer-ui\\src\\components\\CsvTable.tsx",
-              "ToolTip": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\components\\CsvTable.tsx",
-              "RelativeToolTip": "csv-importer-ui\\src\\components\\CsvTable.tsx",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Aaron\\Desktop\\Projects\\csv-importer\\CsvImporter.API\\csv-importer-ui\\src\\components\\CsvTable.tsx*",
+              "RelativeToolTip": "csv-importer-ui\\src\\components\\CsvTable.tsx*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-07-09T15:24:43.601Z",
               "EditorCaption": ""
@@ -155,8 +153,7 @@
               "RelativeToolTip": "csv-importer-ui\\src\\api.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-09T15:23:54.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T15:23:54.548Z"
             },
             {
               "$type": "Document",
@@ -168,8 +165,7 @@
               "RelativeToolTip": "csv-importer-ui\\src\\App.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-09T15:17:29.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T15:17:29.219Z"
             },
             {
               "$type": "Document",
@@ -181,8 +177,7 @@
               "RelativeToolTip": "csv-importer-ui\\src\\main.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-09T15:16:05.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T15:16:05.674Z"
             },
             {
               "$type": "Document",
@@ -194,8 +189,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T13:29:40.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T13:29:40.563Z"
             },
             {
               "$type": "Document",
@@ -207,8 +201,7 @@
               "RelativeToolTip": "Models\\CsvRecordMap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T15:10:45.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T15:10:45.356Z"
             },
             {
               "$type": "Document",
@@ -220,8 +213,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T14:56:54.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T14:56:54.028Z"
             },
             {
               "$type": "Document",
@@ -233,8 +225,7 @@
               "RelativeToolTip": "Data\\CsvContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:03:39.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T14:03:39.329Z"
             },
             {
               "$type": "Document",
@@ -246,8 +237,7 @@
               "RelativeToolTip": "Models\\CsvRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T14:02:59.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T14:02:59.465Z"
             },
             {
               "$type": "Document",
@@ -259,8 +249,7 @@
               "RelativeToolTip": "Controllers\\CsvUploadController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAAEcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:21:34.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T13:21:34.153Z"
             },
             {
               "$type": "Document",
@@ -272,8 +261,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:17:43.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T13:17:43.689Z"
             }
           ]
         }
